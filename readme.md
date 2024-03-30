@@ -25,7 +25,7 @@
 | Create | /sessions | POST | Creates a new session|
 | Show | /sessions/:id | GET | Renders a session on a page|
 
-### USER routes:
+### User routes:
 | Route Name | Endpoint | Method | Description |
 |------------|----------|--------|-------------|
 | Signup form | /user/signup | GET | Renders a form to register a new user |
