@@ -1,19 +1,9 @@
 - **App Name:** CollabCoders
 - **Description:** An app where developers dock to collaborate, learn, and elevate their coding skills through peer programming sessions.
-- **Github URL:** 
+- **Github URL:** https://github.com/amritadutta25/CollabCoders_backend
 - **Deployed Website:** 
 
-## List of Dependencies
-
-##### Node Dependencies (package.json)
-
-- express
-- mongoose
-- dotenv
-- morgan
-- method-override
-- ejs
-- bcrypt
+## To install the app and contribute
 
 
 ## Route Map
