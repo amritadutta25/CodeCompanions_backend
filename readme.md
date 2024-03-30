@@ -14,7 +14,7 @@
 | Index | /sessions | GET | Renders all sessions on a page|
 | Delete | /sessions/:id | DELETE | Deletes a session from database|
 | Update | /sessions/:id | PUT | Updates existing session|
-| Create | /sessions | POST | Creates a new sesiion|
+| Create | /sessions | POST | Creates a new session|
 | Show | /sessions/:id | GET | Renders a session on a page|
 
 ### USER routes:
@@ -41,6 +41,35 @@
 
 ## ERD (Entity Relationship Diagram)
 
-![Entity Relationship Diagram]
+![Entity Relationship Diagram](./images/ERD_diagram.png)
+
+## Model Fields
+
+### User Model Fields
+
+| Field Name | Description |
+|------------|----------|
+| User ID | Unique identifier for session scheduler (Primary Key) |
+| Name | Session scheduler name |
+| Email | User acount Email ID |
+| Password | User account password |
+| Role | Job Title |
+
+### Session Model Fields
+
+| Field Name | Description |
+|------------|----------|
+| Session ID | Unique identifier for each session (Primary Key) |
+| Host ID | Identifier for the user hosting the session (Foreign Key) |
+| Title | A brief title for the session, indicating the focus or project |
+| Description | Detailed information about what the session will cover |
+| Technology | The programming language or framework that will be used during the session |
+| DateTime | The scheduled date and time for the session |
+| Duration | Expected duration of the session |
+| Skill Level | Intended skill level of participants (Beginner, Intermediate, Advanced) |
+| Session Link | Virtual Meeting Invite Link |
+| Participants ID | List of identifiers for users who plan to join the session |
+| Status | Indicates whether the session is Open for joining, Full, or Completed |
+
 
 ## Beyond MVP
