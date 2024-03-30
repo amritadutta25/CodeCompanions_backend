@@ -1,4 +1,4 @@
-## Description
+# Description
 
 - **App Name:** CollabCoders
 - **Description:** An app where developers dock to collaborate, learn, and elevate their coding skills through peer programming sessions.
