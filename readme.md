@@ -36,19 +36,6 @@
 | Login | /user/login | POST | Login an existing user |
 
 
-## Design Mockups (Desktop + Mobile)
-
-##### Mobile Design
-
-![Mobile Design Mockup]
-![Mobile Design Mockup]
-![Mobile Design Mockup]
-
-##### Desktop Design
-
-![Desktop Design Mockup]
-![Desktop Design Mockup]
-
 ## ERD (Entity Relationship Diagram)
 
 ![Entity Relationship Diagram](./images/ERD_diagram.png)
@@ -80,6 +67,3 @@
 | Session Link | Virtual Meeting Invite Link |
 | Participants ID | List of identifiers for users who plan to join the session |
 | Status | Indicates whether the session is Open for joining, Full, or Completed |
-
-
-## Beyond MVP
