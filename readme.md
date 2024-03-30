@@ -1,7 +1,7 @@
 # Description
 
 - **App Name:** CollabCoders
-- **Description:** A scheduling platform where developers can create, collaborate on, and attend peer programming sessions to enhance their skills together.
+- **Description:** A scheduling platform for developers to create sessions, explore a variety of programming meetups, and attend collaborative coding workshops to enhance their skills together.
 - **Github URL:** https://github.com/amritadutta25/CollabCoders_backend
 - **Deployed Website:** 
 
