@@ -8,7 +8,7 @@
 
 ## Route Map
 
-### PRODUCT routes:
+### Session routes:
 | Route Name | Endpoint | Method | Description |
 |------------|----------|--------|-------------|
 | Index | /sessions | GET | Renders all sessions on a page|
