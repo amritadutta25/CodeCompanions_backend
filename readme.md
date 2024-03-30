@@ -3,7 +3,15 @@
 - **Github URL:** https://github.com/amritadutta25/CollabCoders_backend
 - **Deployed Website:** 
 
-## To install the app and contribute
+## User Stories
+
+- Users should be able to see the site on desktop and mobile
+- Users can create an account
+- Users can sign in to their account
+- Users can create a new session
+- Users can see all sessions
+- Users can update session
+- Users can delete session
 
 
 ## Route Map
