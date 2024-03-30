@@ -8,10 +8,10 @@
 - Users should be able to see the site on desktop and mobile
 - Users can create an account
 - Users can sign in to their account
-- Users can create a new session
-- Users can see all sessions
-- Users can update session
-- Users can delete session
+- Users can create a new peer programming session
+- Users can see all peer programming sessions scheduled
+- Users can update a peer programming session
+- Users can delete a peer programming session
 
 
 ## Route Map
