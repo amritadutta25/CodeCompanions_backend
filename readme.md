@@ -3,10 +3,19 @@
 - **App Name:** CollabCoders
 - **Description:** A Peer Programming Session Scheduler platform that facilitates the scheduling and management of pair programming sessions, which are crucial for collaborative coding, learning, and mentorship within the developer community.
 - **Github URL:** https://github.com/amritadutta25/CollabCoders_backend
-- **Deployed Website:** 
+- **Deployed Website:** https://collabcoders-backend.onrender.com/
 
 # Problem Being Solved and Target Market
 To create a platform where developers can schedule, join, and manage pair programming sessions, encouraging collaboration, knowledge sharing, and networking within the development community. This tool aims to simplify the process of finding pairing partners and organizing sessions around specific topics or projects.
+
+# List of Dependencies
+- dj-database-url
+- Django
+- djangorestframework
+- gunicorn
+
+To install all dependencies, run
+`pip install -r dependencies.txt`
 
 ## User Stories
 
