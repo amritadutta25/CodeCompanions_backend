@@ -64,7 +64,8 @@ To create a platform where developers can schedule, join, and manage pair progra
 | Title | A brief title for the session, indicating the focus or project |
 | Description | Detailed information about what the session will cover |
 | Technology | The programming language or framework that will be used during the session |
-| DateTime | The scheduled date and time for the session |
+| Date | The scheduled date for the session |
+| Time | The scheduled time for the session |
 | Duration | Expected duration of the session |
 | Skill Level | Intended skill level of participants (Beginner, Intermediate, Advanced) |
 | Session Link | Virtual Meeting Invite Link |

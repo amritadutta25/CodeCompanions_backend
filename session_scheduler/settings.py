@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     "django.contrib.sessions",
     "django.contrib.messages",
     "django.contrib.staticfiles",
+    'programming_sessions.apps.ProgrammingSessionsConfig',
     'rest_framework',    
     "corsheaders", #add this below all the other apps
 ]
