@@ -33,11 +33,11 @@ To install all dependencies, run
 ### Session routes:
 | Route Name | Endpoint | Method | Description |
 |------------|----------|--------|-------------|
-| Index | /sessions | GET | Renders all sessions on a page|
-| Delete | /sessions/:id | DELETE | Deletes a session from database|
-| Update | /sessions/:id | PUT | Updates existing session|
-| Create | /sessions | POST | Creates a new session|
-| Show | /sessions/:id | GET | Renders a session on a page|
+| Index | /sessions/ | GET | Renders all sessions on a page|
+| Delete | /sessions/:id/ | DELETE | Deletes a session from database|
+| Update | /sessions/:id/ | PUT | Updates existing session|
+| Create | /sessions/ | POST | Creates a new session|
+| Show | /sessions/:id/ | GET | Renders a session on a page|
 
 ### User routes:
 | Route Name | Endpoint | Method | Description |
