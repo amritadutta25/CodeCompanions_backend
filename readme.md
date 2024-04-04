@@ -22,15 +22,15 @@ To install all dependencies, run
 - Users should be able to see the site on desktop and mobile
 - Users can create an account
 - Users can sign in to their account
-- Users can create a new peer programming session
-- Users can see all peer programming sessions scheduled
-- Users can update a peer programming session
-- Users can delete a peer programming session
+- Users can create a new peer programming session (meeting)
+- Users can see all peer programming sessions (meetings) scheduled
+- Users can update a peer programming session (meeting)
+- Users can delete a peer programming session (meeting)
 
 
 ## Route Map
 
-### Session routes:
+### Session/Meeting routes:
 | Route Name | Endpoint | Method | Description |
 |------------|----------|--------|-------------|
 | Index | /sessions/ | GET | Renders all sessions on a page|
@@ -64,7 +64,7 @@ To install all dependencies, run
 | Password | User account password |
 | Role | Job Title |
 
-### Session Model Fields
+### Session/Meeting Model Fields
 
 | Field Name | Description |
 |------------|----------|
